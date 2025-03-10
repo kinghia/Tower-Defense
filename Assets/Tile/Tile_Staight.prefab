@@ -60,6 +60,10 @@ PrefabInstance:
       propertyPath: isPlaced
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9091042240211157182, guid: 9e0eb672ed468af44bc17a8cdb41e4ec, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

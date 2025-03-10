@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3377731106843007104, guid: 964bb69af75ef6344b578ce803fb6135, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7116350503675733910, guid: 964bb69af75ef6344b578ce803fb6135, type: 3}
       propertyPath: m_Name
       value: Tile_Corner270
